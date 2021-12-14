@@ -3,7 +3,13 @@
 
 ### Instalación de Dependencias
 1. Instalar python3
-2. Ejecutar el comando pip install -r requirements.txt
+2. Ejecutar el comando 
+``` 
+pip install -r requirements.txt
+```
 
 ### Ejecución
-1. Ejecutar el comando python3 poc.py
+1. Ejecutar el comando 
+```
+python3 poc.py
+```
