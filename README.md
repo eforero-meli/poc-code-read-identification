@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```
 python3 poc.py
 ```
+
+### Resultados
+![image](https://user-images.githubusercontent.com/86089987/145917318-774a137b-7677-4a8e-97c4-d9e2c4913a85.png)
